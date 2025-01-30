@@ -84,6 +84,6 @@ streamlit run app.py
 
 ## Contributing
 
-Pull requests are welcome! Feel free to suggest improvements.
+Pull requests are welcome! Feel free to suggest further improvements.
 
 
