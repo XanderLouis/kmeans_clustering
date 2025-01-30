@@ -35,3 +35,6 @@ if st.button("Predict Customer's Segmentation"):
         rain(emoji="🎈", font_size=54, falling_speed=5, animation_length=3)
     else:
         st.error("Error: Unable to fetch prediction.")
+
+# Load image
+st.image("src/Figure_2.png", caption="Customers Segmentation with K-Means Clustering", use_container_width=True)
